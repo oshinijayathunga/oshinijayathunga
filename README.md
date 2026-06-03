@@ -20,6 +20,7 @@ I am a final-year **Applied Statistics** undergraduate at the **University of Co
 *   **Python for Data Science and AI** – Coursera (IBM)
 *   **R Programming Complete Certification Training** – Udemy
 *   **Python for Beginners** – University of Moratuwa
+*   **Databricks Fundamental** – Databricks Academy
 
 ---
 
